@@ -7,7 +7,7 @@ packages = ["src/danielcaz_lambda_utils"]
 
 [project]
 name = "danielcaz_lambda_utils"
-version = "0.0.1"
+version = "0.0.2"
 authors = [
   { name="Daniel Cazarez", email="cazarez.jorge.prog2019@gmail.com" },
 ]
